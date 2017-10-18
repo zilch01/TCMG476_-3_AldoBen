@@ -1,5 +1,5 @@
-# TCMG476_#3_AldoBen
-Loganalyzer
+#TCMG 476 Group Project #3
+Loganalyzer.py
 By Aldo Madrid, Benjamin Cervantes
 
 instrustions:
@@ -22,3 +22,4 @@ q2_months ----- python3 loganalyizer_q2_months.py
 q3       ------	python3 loganalyizer_q3.py
 q4       ------ python3 loganalyizer_q4.py
 q5-6     ------ python3 loganalyizer_q5-6.py
+
